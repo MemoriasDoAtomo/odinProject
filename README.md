@@ -1,2 +1,2 @@
-# git-test
+# odinProjectFoundations
 My first GitHub repo!
